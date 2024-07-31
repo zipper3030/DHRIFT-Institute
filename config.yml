@@ -1,34 +1,69 @@
-cloneWorkshops: false
+cloneWorkshops: true
 contact:
 - email: ''
   name: ''
-dateStart: ''
-description: ''
-endDate: ''
-event: ''
-format: ''
-herodescription: ''
-institution: ''
-location: ''
+dateStart: '2024-08-05'
+description: 'During our two-day workshop intensive, we are going to learn how to
+  use DHRIFT to support learning, to teach digital skills, and to customize content
+  for your own local needs. '
+endDate: '2024-08-06'
+event: Catch Our DHRIFT
+format: hybrid
+haveRegistration: true
+herodescription: DH workshops for responsible reuse
+institution: DHRIFT & DH Research Institutes
+location: 365 Fifth Ave. New York NY
+longDescription: 'DHRIFT (Digital Humanities Resource Infrastructure for Teaching
+  Technology) is an open educational resource (OER) and publication platform for DH
+  workshops. Designed by humanities scholars for humanities scholars, DHRIFT provides
+  a minimal computing, accessibility-aware, and interactive environment for teaching
+  fundamental DH concepts. The platform includes a core set of more than 10 reviewed
+  and tested workshops that have been developed and tested during two NEH-funded,
+  week-long institutes, called the Digital Humanities Research Institutes (DHRI).
+  Workshop topics range from learning the basics of Python, JavaScript, and R to conducting
+  research through text analysis, data wrangling, and mapping. '
 organizers:
-- email: ''
-  name: ''
+- email: lrhody@gc.cuny.edu
+  name: Lisa Rhody
+- email: szweibel@gc.cuny.edu
+  name: Steve Zweibel
+- email: zlloyd@gradcenter.cuny.edu
+  name: Zach Lloyd
+registerLink: https://dhrift.org
+registerText: Apply Now
 sessions:
-- date: ''
+- date: '2024-08-05'
   description: ''
+  endTime: '16:30'
   helpers:
-  - name: ''
+  - name: Evalyn Rhody
   instructors:
   - name:
-      email: ''
-      name: Z
+      email: lisa@email.com
+      name: Lisa Rhody
   location: ''
-  time: ''
-  title: Intro Python
-  workshop: python
+  time: '13:00'
+  title: Welcome and Ice Breaker
+  workshop: ''
+- date: '2024-08-05'
+  description: ''
+  endTime: '18:30'
+  helpers:
+  - name: Oscar
+  instructors:
+  - name:
+      email: steve@email.com
+      name: Steve Z
+  location: ''
+  time: '17:00'
+  title: Introduction to the Command Line
+  workshop: command-line
+showWorkshops: true
 sponsors:
-- link: ''
-  name: ''
-venue: ''
+- link: https://neh.gov
+  name: National Endowment for the Humanities
+  notes: 'This workshop is supported in large part by a grant from the National Endowment
+    for the Humanities (NEH), through their Digital Humanities Advancement Grant program. '
+venue: ' The Graduate Center'
 workshopsrepo: workshops
-workshopsuser: dhri-curriculum
+workshopsuser: zipper3030
