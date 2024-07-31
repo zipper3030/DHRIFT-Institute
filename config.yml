@@ -1,0 +1,34 @@
+cloneWorkshops: false
+contact:
+- email: ''
+  name: ''
+dateStart: ''
+description: ''
+endDate: ''
+event: ''
+format: ''
+herodescription: ''
+institution: ''
+location: ''
+organizers:
+- email: ''
+  name: ''
+sessions:
+- date: ''
+  description: ''
+  helpers:
+  - name: ''
+  instructors:
+  - name:
+      email: ''
+      name: Z
+  location: ''
+  time: ''
+  title: Intro Python
+  workshop: python
+sponsors:
+- link: ''
+  name: ''
+venue: ''
+workshopsrepo: workshops
+workshopsuser: dhri-curriculum
